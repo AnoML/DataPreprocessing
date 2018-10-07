@@ -1,2 +1,3 @@
-# DataPreprocessing
-Scripts used in preprocessing data
+# Data Pre-processing
+
+Scripts used in pre-processing data
