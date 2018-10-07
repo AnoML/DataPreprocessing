@@ -1,0 +1,11 @@
+"@timestamp","system.diskio.iostat.await","system.diskio.iostat.busy","system.diskio.iostat.queue.avg_size","system.diskio.iostat.request.avg_size","system.diskio.iostat.service_time","system.diskio.iostat.read.request.per_sec","system.diskio.iostat.read.per_sec.bytes","system.diskio.iostat.read.request.merges_per_sec","system.diskio.iostat.write.request.per_sec","system.diskio.iostat.write.per_sec.bytes","system.diskio.iostat.write.request.merges_per_sec"
+"September 28th 2018, 09:37:39.042",0,0,0,0,0,0,0B,0,0,0B,0
+"September 28th 2018, 09:38:39.123","9.633","4.162","0.086","7,624.39","4.659","1.79","15.991KB",0,"7.143","50.516KB","4.868"
+"September 28th 2018, 09:39:39.123","4.283","0.597","0.008","15,151.575","3.15","0.017","68.679B",0,"1.878","27.968KB","1.157"
+"September 28th 2018, 09:40:39.123","34.667","0.642","0.059","21,724.863","3.765","0.017","684.95B",0,"1.689","35.518KB","0.803"
+"September 28th 2018, 09:41:39.123","6.174","0.638","0.01","38,778.435","4.13",0,0B,0,"1.544","58.478KB","0.873"
+"September 28th 2018, 09:42:39.123","14.258","1.026","0.039","33,446.479","3.755",0,0B,0,"2.734","89.295KB","1.208"
+"September 28th 2018, 09:43:39.123","59.524","0.569","0.084","25,502.476","4.048",0,0B,0,"1.405","34.998KB","0.92"
+"September 28th 2018, 09:44:39.123","6.353","0.482","0.011","35,659.294","2.824",0,0B,0,"1.707","59.448KB","0.854"
+"September 28th 2018, 09:45:39.123","5.545","0.455","0.009","36,864","2.693",0,0B,0,"1.691","60.871KB","0.938"
+"September 28th 2018, 09:46:39.123","28.912","1.225","0.055","32,588.351","6.421",0,0B,0,"1.908","60.715KB","1.071"
